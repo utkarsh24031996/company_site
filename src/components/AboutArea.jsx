@@ -7,11 +7,11 @@ const AboutArea = () => {
                 <div className="row">
                     <div className="col-md-5 col-sm-4 col-xs-12">
                         <div className="about-image">
-                            <div className="video-content ">
+                            {/* <div className="video-content ">
                                 <a href="https://www.youtube.com/watch?v=O33uuBh6nXA" className="video-play vid-zone">
                                     <i className="fa fa-play" />
                                 </a>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                     <div className="col-md-7 col-sm-8 col-xs-12">

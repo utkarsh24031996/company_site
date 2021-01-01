@@ -12,9 +12,9 @@ function Footer() {
                                     <div className="footer-logo">
                                         <a href="#"><img src="img/logo/logo.png" alt="" /></a>
                                     </div>
-                                    <p>
-                                        Are you looking for professional advice for your new business. Are you looking for professional advice for your new business. Are you looking for professional advice for your new business.
-                    </p>
+                                    <p>Now is a 21 st century digital marketing era.</p>
+                                    <p>It’s a place to turn your imagination into innovation.</p>
+                                    <p>Are you looking for professional advice for your new business.</p>
                                     <div className="subs-feilds">
                                         <div className="suscribe-input">
                                             <input type="email" className="email form-control width-80" id="sus_email" placeholder="Type Email" />

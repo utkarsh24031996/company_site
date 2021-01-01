@@ -62,7 +62,7 @@ function DigitalServicesArea() {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-md-offset-3 col-md-3 col-sm-4 col-xs-12">
+                        <div className="col-md-3 col-md-3 col-sm-4 col-xs-12">
                             <div className="digital-services">
                                 <div className="digital-wel s5-item">
                                     <div className="digital-img">
@@ -74,9 +74,33 @@ function DigitalServicesArea() {
                                 </div>
                             </div>
                         </div>
+                        <div className="col-md-3 col-md-3 col-sm-4 col-xs-12">
+                            <div className="digital-services">
+                                <div className="digital-wel s6-item">
+                                    <div className="digital-img">
+                                        <a className="digital-icon" href="#"><img src="assets/img/icon/a5.png" alt="" /></a>
+                                    </div>
+                                    <div className="digital-content">
+                                        <h4>Health &amp; Medichine</h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                         <div className="col-md-3 col-sm-4 col-xs-12">
                             <div className="digital-services">
-                                <div className="digital-wel s5-item">
+                                <div className="digital-wel s7-item">
+                                    <div className="digital-img">
+                                        <a className="digital-icon" href="#"><img src="assets/img/icon/a6.png" alt="" /></a>
+                                    </div>
+                                    <div className="digital-content">
+                                        <h4>Non-profit &amp; Ragal</h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-md-3 col-sm-4 col-xs-12">
+                            <div className="digital-services">
+                                <div className="digital-wel s8-item">
                                     <div className="digital-img">
                                         <a className="digital-icon" href="#"><img src="assets/img/icon/a6.png" alt="" /></a>
                                     </div>

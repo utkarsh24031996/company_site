@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom';
 
 function OurProjects() {
     return (
@@ -20,14 +21,16 @@ function OurProjects() {
                                     <a href="#">
                                         <img src="assets/img/project/p1.jpg" alt="" />
                                     </a>
-                                    <div className="add-actions text-center">
+                                    <div className="add-actions text-center">   
                                         <a className="venobox" data-gall="myGallery" href="img/project/p1.jpg">
                                             <i className="port-icon ti-zoom-in" />
                                         </a>
                                     </div>
                                 </div>
                                 <div className="project-dec">
-                                    <h4>Data collection</h4>
+                                    <Link to={'/project_details'}>
+                                        <h4>Data collection</h4>
+                                    </Link>
                                     <p>Our development opt in to the projects they genuinely want to work on, committing wholeheartedly to delivering.</p>
                                 </div>
                             </div>
@@ -45,7 +48,9 @@ function OurProjects() {
                                     </div>
                                 </div>
                                 <div className="project-dec">
-                                    <h4>Models development</h4>
+                                    <Link to={'/project_details'}>
+                                        <h4>Models development</h4>
+                                    </Link>
                                     <p>Our development opt in to the projects they genuinely want to work on, committing wholeheartedly to delivering.</p>
                                 </div>
                             </div>
@@ -63,7 +68,9 @@ function OurProjects() {
                                     </div>
                                 </div>
                                 <div className="project-dec">
-                                    <h4>Service deployment</h4>
+                                    <Link to={'/project_details'}>
+                                        <h4>Service deployment</h4>
+                                    </Link>
                                     <p>Our development opt in to the projects they genuinely want to work on, committing wholeheartedly to delivering.</p>
                                 </div>
                             </div>
@@ -81,7 +88,9 @@ function OurProjects() {
                                     </div>
                                 </div>
                                 <div className="project-dec">
-                                    <h4>Environment project</h4>
+                                    <Link to={'/project_details'}>
+                                        <h4>Environment project</h4>
+                                    </Link>
                                     <p>Our development opt in to the projects they genuinely want to work on, committing wholeheartedly to delivering.</p>
                                 </div>
                             </div>
@@ -99,7 +108,9 @@ function OurProjects() {
                                     </div>
                                 </div>
                                 <div className="project-dec">
-                                    <h4>Design solution</h4>
+                                    <Link to={'/project_details'}>
+                                        <h4>Design solution</h4>
+                                    </Link>
                                     <p>Our development opt in to the projects they genuinely want to work on, committing wholeheartedly to delivering.</p>
                                 </div>
                             </div>
@@ -117,7 +128,9 @@ function OurProjects() {
                                     </div>
                                 </div>
                                 <div className="project-dec">
-                                    <h4>Design solution</h4>
+                                    <Link to={'/project_details'}>
+                                        <h4>Design solution</h4>
+                                    </Link>
                                     <p>Our development opt in to the projects they genuinely want to work on, committing wholeheartedly to delivering.</p>
                                 </div>
                             </div>
