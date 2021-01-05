@@ -45,7 +45,7 @@ const HeaderHomePage = props => {
                         </div>
                         <div className="col-md-9 col-sm-9">
                             <div className="header-right-link">
-                                <div className="search-inner">
+                                {/* <div className="search-inner">
                                     <form action="#">
                                         <div className="search-option">
                                             <input type="text" placeholder="Search..." />
@@ -53,7 +53,7 @@ const HeaderHomePage = props => {
                                         </div>
                                         <a className="main-search"><i className="fa fa-search" /></a>
                                     </form>
-                                </div>
+                                </div> */}
                                 <a className="s-menu" href="login.html">Free Consulting</a>
                             </div>
                             <nav className="navbar navbar-default">

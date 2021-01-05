@@ -13,8 +13,8 @@ function WelcomeArea() {
                                 </div>
                                 <div className="main-wel">
                                     <div className="wel-content">
-                                        <h4>Innovation idea</h4>
-                                        <p>Aspernatur sit adipisci quaerat unde at neque Redug Lagre dolor sit amet consectetu.</p>
+                                        <h4>Innovative solutions</h4>
+                                        <p>We provide innovative solutions to enhance your brand goodwill in market.</p>
                                         <a href="#">Read more</a>
                                     </div>
                                 </div>
@@ -26,7 +26,7 @@ function WelcomeArea() {
                                 <div className="main-wel">
                                     <div className="wel-content">
                                         <h4>Market research</h4>
-                                        <p>Aspernatur sit adipisci quaerat unde at neque Redug Lagre dolor sit amet consectetu.</p>
+                                        <p>We use unique market research tactics to beat the market competition.</p>
                                         <a href="#">Read more</a>
                                     </div>
                                 </div>
@@ -37,8 +37,8 @@ function WelcomeArea() {
                                 </div>
                                 <div className="main-wel">
                                     <div className="wel-content">
-                                        <h4>Creative team</h4>
-                                        <p>Aspernatur sit adipisci quaerat unde at neque Redug Lagre dolor sit amet consectetu.</p>
+                                        <h4>Experienced team</h4>
+                                        <p>Our highly experienced team would help you grow your business.</p>
                                         <a href="#">Read more</a>
                                     </div>
                                 </div>
