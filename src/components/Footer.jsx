@@ -52,9 +52,9 @@ function Footer() {
                                 <div className="footer-head">
                                     <h4>Information</h4>
                                     <div className="footer-contacts">
-                                        <p><span>Location :</span> House- 65/4, Zonson street-3/5, London, UK</p>
-                                        <p><span>Tel :</span> +0890-564-5644</p>
-                                        <p><span>Email :</span> info@randerc3.com</p>
+                                        <p><span>Location :</span> 103 Panchsheel Arcade, Mahavir Nagar, Kandivali (W), Mumbai 400067</p>
+                                        <p><span>Tel :</span> +91 7276494095</p>
+                                        <p><span>Email :</span> info@infusetechsolution.com</p>
                                     </div>
                                     <div className="footer-icons">
                                         <ul>
@@ -97,9 +97,8 @@ function Footer() {
                         <div className="col-md-6 col-sm-6 col-xs-12">
                             <div className="copyright">
                                 <p>
-                                    Copyright © 2020
-                    <a href="#">randerc</a> All Rights Reserved
-                  </p>
+                                    Copyright © 2020 <a href="#"> Infuse Technologies </a> All Rights Reserved
+                             </p>
                             </div>
                         </div>
                     </div>

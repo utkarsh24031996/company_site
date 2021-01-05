@@ -12,7 +12,7 @@ function ServicesPage() {
     return (
         <React.Fragment>
             <OtherPageHeader />
-            <Breadcumb pageTitle={"Servces"} />
+            <Breadcumb pageTitle={"Services"} />
             <ServiceArea />
             <Tabarea />
             <Footer />

@@ -66,10 +66,10 @@ function DigitalServicesArea() {
                             <div className="digital-services">
                                 <div className="digital-wel s5-item">
                                     <div className="digital-img">
-                                        <a className="digital-icon" href="#"><img src="assets/img/icon/a5.png" alt="" /></a>
+                                        <a className="digital-icon" href="#"><img src="assets/img/icon/a7.png" alt="" /></a>
                                     </div>
                                     <div className="digital-content">
-                                        <h4>Health &amp; Medichine</h4>
+                                        <h4>Fashion</h4>
                                     </div>
                                 </div>
                             </div>
@@ -102,10 +102,10 @@ function DigitalServicesArea() {
                             <div className="digital-services">
                                 <div className="digital-wel s8-item">
                                     <div className="digital-img">
-                                        <a className="digital-icon" href="#"><img src="assets/img/icon/a6.png" alt="" /></a>
+                                        <a className="digital-icon" href="#"><img src="assets/img/icon/a8.png" alt="" /></a>
                                     </div>
                                     <div className="digital-content">
-                                        <h4>Non-profit &amp; Ragal</h4>
+                                        <h4>Food &amp; Restaurant</h4>
                                     </div>
                                 </div>
                             </div>

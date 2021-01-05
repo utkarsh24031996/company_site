@@ -11,8 +11,8 @@ const HeaderHomePage = props => {
                         <div className=" col-md-9 col-sm-9">
                             <div className="topbar-left">
                                 <ul>
-                                    <li><a><i className="fa fa-envelope" /> info@randerc3.com</a></li>
-                                    <li><a><i className="fa fa-phone-square" /> +3234-7665545</a></li>
+                                    <li><a><i className="fa fa-envelope" /> info@infusetechsolution.com</a></li>
+                                    <li><a><i className="fa fa-phone-square" /> +91 7276494095</a></li>
                                     <li><a><i className="fa fa-clock-o" /> Mon - Fri: 10:00 - 18:00</a></li>
                                 </ul>
                             </div>
@@ -54,7 +54,7 @@ const HeaderHomePage = props => {
                                         <a className="main-search"><i className="fa fa-search" /></a>
                                     </form>
                                 </div>
-                                <a className="s-menu" href="login.html">It Consultant</a>
+                                <a className="s-menu" href="login.html">Free Consulting</a>
                             </div>
                             <nav className="navbar navbar-default">
                                 <div className="collapse navbar-collapse" id="navbar-example">

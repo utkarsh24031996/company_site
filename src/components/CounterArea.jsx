@@ -20,28 +20,28 @@ function CounterArea() {
                             <div className="col-md-6 col-sm-6 col-xs-12">
                                 <div className="fun_text wow fadeInUp" data-wow-delay="0.2s">
                                     <span className="counter-icon"><i className="ti-layers" /></span>
-                                    <span className="counter">510</span>
+                                    <span className="counter">120</span>
                                     <h4>Total projects</h4>
                                 </div>
                             </div>
                             <div className="col-md-6 col-sm-6 col-xs-12">
                                 <div className="fun_text wow fadeInUp" data-wow-delay="0.3s">
                                     <span className="counter-icon"><i className="ti-world" /></span>
-                                    <span className="counter">120</span>
+                                    <span className="counter">10</span>
                                     <h4>Worldwide</h4>
                                 </div>
                             </div>
                             <div className="col-md-6 col-sm-6 col-xs-12">
                                 <div className="fun_text wow fadeInUp" data-wow-delay="0.4s">
                                     <span className="counter-icon"><i className="ti-cup" /></span>
-                                    <span className="counter">40</span>
+                                    <span className="counter">5</span>
                                     <h4>Awards win</h4>
                                 </div>
                             </div>
                             <div className="col-md-6 col-sm-6 col-xs-12">
                                 <div className="fun_text wow fadeInUp" data-wow-delay="0.5s">
                                     <span className="counter-icon"><i className="ti-user" /></span>
-                                    <span className="counter">210</span>
+                                    <span className="counter">25</span>
                                     <h4>Team member</h4>
                                 </div>
                             </div>

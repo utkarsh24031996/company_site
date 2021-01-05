@@ -11,8 +11,8 @@ function ContactArea() {
                                 <div className="single-icon">
                                     <i className="ti-mobile" />
                                     <p>
-                                        Call : +0011-564-543<br />
-                                        <span>Monday-Friday (10am-18pm)</span>
+                                        Call : +91 7276494095<br />
+                                        <span>Monday-Friday (10am-6pm)</span>
                                     </p>
                                 </div>
                             </div>
@@ -22,8 +22,8 @@ function ContactArea() {
                                 <div className="single-icon">
                                     <i className="ti-email" />
                                     <p>
-                                        Email : Ragner3@gmail.com<br />
-                                        <span>Web: www.rockstheme.com</span>
+                                        Email : info@infusetechsolution.com<br />
+                                        <span>Web: www.infusetechsolution.com</span>
                                     </p>
                                 </div>
                             </div>
@@ -33,8 +33,8 @@ function ContactArea() {
                                 <div className="single-icon">
                                     <i className="ti-location-pin" />
                                     <p>
-                                        Location : Newyork city<br />
-                                        <span>23 house/3 Road</span>
+                                        Location : 103 Panchsheel Arcade,<br />
+                                        <span>Mahavir Nagar, Kandivali (W), Mumbai</span>
                                     </p>
                                 </div>
                             </div>

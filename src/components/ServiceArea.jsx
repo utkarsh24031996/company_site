@@ -47,7 +47,7 @@ const ServiceArea = () => {
                         <div className="col-md-4 col-sm-6 col-xs-12">
                             <div className="single-service wow fadeInUp" data-wow-delay="0.7s">
                                 <div className="service-icon">
-                                    <span className="flaticon-057-statistics" />
+                                    <span className="flaticon-041-network" />
                                 </div>
                                 <div className="service-inner">
                                     <div className="service-content">
@@ -61,7 +61,7 @@ const ServiceArea = () => {
                         <div className="col-md-4 col-sm-6 col-xs-12">
                             <div className="single-service wow fadeInUp" data-wow-delay="0.3s">
                                 <div className="service-icon">
-                                    <span className="flaticon-012-business" />
+                                    <span className="flaticon-002-analysis" />
                                 </div>
                                 <div className="service-inner">
                                     <div className="service-content">
@@ -75,7 +75,7 @@ const ServiceArea = () => {
                         <div className="col-md-4 col-sm-6 col-xs-12">
                             <div className="single-service wow fadeInUp" data-wow-delay="0.5s">
                                 <div className="service-icon">
-                                    <span className="flaticon-041-network" />
+                                    <span className="flaticon-057-statistics" />
                                 </div>
                                 <div className="service-inner">
                                     <div className="service-content">
@@ -89,12 +89,12 @@ const ServiceArea = () => {
                         <div className="col-md-4 col-sm-6 col-xs-12">
                             <div className="single-service wow fadeInUp" data-wow-delay="0.7s">
                                 <div className="service-icon">
-                                    <span className="flaticon-002-analysis" />
+                                    <span className="flaticon-012-business" />
                                 </div>
                                 <div className="service-inner">
                                     <div className="service-content">
                                         <h4>App Development</h4>
-                                        <p>App Development is the way to reach billions of people. There is increased penetration of smart phones in the market which means there is a vast scope for mobile apps.</p>
+                                        <p>App Development is the way to reach billions of people. There is increased penetration of smart phones in the market which means more users.</p>
                                         <a className="service-btn" href="#"><i className="ti-arrow-right" /></a>
                                     </div>
                                 </div>
